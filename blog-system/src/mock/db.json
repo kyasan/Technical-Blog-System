@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Art of Modern Web Development",
+      "content": "In the ever-evolving landscape of web development, staying ahead of the curve is crucial. Modern web development combines the power of React, TypeScript, and advanced CSS techniques to create seamless user experiences. This article explores the latest trends and best practices in the industry, from component architecture to state management and performance optimization.",
+      "author": "Alexander Chen",
+      "createdAt": "2024-03-20T10:00:00Z",
+      "tags": ["Web Development", "React", "TypeScript"]
+    },
+    {
+      "id": 2,
+      "title": "Understanding TypeScript's Type System",
+      "content": "TypeScript's sophisticated type system is one of its most powerful features. It enables developers to catch errors during development and provides excellent tooling support. This deep dive into TypeScript's type system will help you understand its core concepts and advanced features, from basic types to complex generics and conditional types.",
+      "author": "Sophia Williams",
+      "createdAt": "2024-03-21T14:30:00Z",
+      "tags": ["TypeScript", "Programming"]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "author": "Michael Johnson",
+      "content": "Excellent overview of modern web development practices. The section on performance optimization was particularly insightful.",
+      "createdAt": "2024-03-20T11:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Alexander Chen",
+      "email": "alexander@example.com",
+      "avatar": "https://source.unsplash.com/random/300x300/?nature,landscape"
+    }
+  ]
+} 
