@@ -22,7 +22,7 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 - React Router
 - date-fns
 
-## How to use
+## Getting Started
 
 1. Clone the repository
 ```bash
