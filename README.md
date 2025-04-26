@@ -54,7 +54,3 @@ TechChronicle/
 ├── README.md             # Project documentation
 └── package.json          # Project dependencies and scripts
 ```
-
-## Developer
-
-Li Jiang
