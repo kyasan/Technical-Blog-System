@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.0.2",
+    "@mui/material": "^7.0.2",
+    "@types/json-server": "^0.14.8",
+    "@types/react-router-dom": "^5.3.3",
+    "date-fns": "^4.1.0",
+    "json-server": "^1.0.0-beta.3",
+    "react-router-dom": "^7.5.2"
+  }
+}
