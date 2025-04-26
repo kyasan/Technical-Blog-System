@@ -12,7 +12,6 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 - Article Tagging System
 - Comment Functionality
 - User Profiles
-- Like and Bookmark Features
 
 ## Tech Stack
 
