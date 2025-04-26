@@ -23,7 +23,7 @@ cd blog-system
 
 2. Navigate to the project directory
 ```bash
-cd quiz-app
+cd blog-system
 ```
 
 3. Install dependencies
