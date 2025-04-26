@@ -4,17 +4,17 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 
 ## Project Preview
 
-![TechChronicle Homepage Screenshot](./docs/images/homepage.png)
+<img width="1244" alt="截屏2025-04-26 11 28 24" src="https://github.com/user-attachments/assets/8eb92542-0fb4-410b-88f6-cdcee2eb2d5d" />
 
 ## Key Features
 
-- 🎨 Modern User Interface Design
-- 🌓 Dark Theme
-- 📱 Responsive Layout
-- 🏷️ Article Tagging System
-- 💬 Comment Functionality
-- 👤 User Profiles
-- ❤️ Like and Bookmark Features
+- Modern User Interface Design
+- Dark Theme
+- Responsive Layout
+- Article Tagging System
+- Comment Functionality
+- User Profiles
+- ❤Like and Bookmark Features
 
 ## Tech Stack
 
@@ -23,10 +23,6 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 - Material-UI
 - React Router
 - date-fns
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
