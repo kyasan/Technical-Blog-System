@@ -26,7 +26,7 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/kyasan/Technical-Blog-System.git]
+git clone https://github.com/kyasan/Technical-Blog-System.git
 cd blog-system
 ```
 
