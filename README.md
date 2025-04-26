@@ -13,14 +13,6 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 - Comment Functionality
 - User Profiles
 
-## Tech Stack
-
-- React
-- TypeScript
-- Material-UI
-- React Router
-- date-fns
-
 ## Getting Started
 
 1. Clone the repository
@@ -38,6 +30,14 @@ npm install
 ```
 http://localhost:3000
 ```
+
+## Tech Stack
+
+- React
+- TypeScript
+- Material-UI
+- React Router
+- date-fns
 
 ## Project Structure
 
