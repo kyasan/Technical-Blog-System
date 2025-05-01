@@ -13,48 +13,29 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 - Comment Functionality
 - User Profiles
 
-## Tech Stack
-
-- React
-- TypeScript
-- Material-UI
-- React Router
-- date-fns
-
 ## Getting Started
 
 1. Clone the repository
 ```bash
 git clone https://github.com/kyasan/Technical-Blog-System.git
+```
+
+2. Navigate to the project directory
+```bash
 cd blog-system
 ```
 
-2. Install dependencies
+3. Install dependencies
 ```bash
 npm install
 ```
 
-3. Open in browser
+4. Start the development server
+```bash
+npm start
+```
+
+5. Open in browser
 ```
 http://localhost:3000
 ```
-
-## Project Structure
-
-```
-TechChronicle/
-├── public/               # Static assets
-├── src/                  # Source code
-│   ├── components/       # Reusable UI components
-│   ├── pages/            # Page-specific components
-│   ├── assets/           # Images, styles, etc.
-│   ├── utils/            # Utility functions and helpers
-│   ├── App.tsx           # Main application component
-│   └── index.tsx         # Entry point for the React app
-├── README.md             # Project documentation
-└── package.json          # Project dependencies and scripts
-```
-
-## Developer
-
-Li Jiang
