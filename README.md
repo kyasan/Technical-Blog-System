@@ -22,14 +22,25 @@ git clone https://github.com/kyasan/Technical-Blog-System.git
 
 2. Navigate to the project directory
 ```bash
+```
+
+2. Navigate to the project directory
+```bash
 cd blog-system
 ```
 
+3. Install dependencies
 3. Install dependencies
 ```bash
 npm install
 ```
 
+4. Start the development server
+```bash
+npm start
+```
+
+5. Open in browser
 4. Start the development server
 ```bash
 npm start
