@@ -10,7 +10,6 @@ A modern technical blog system built with React, TypeScript, and Material-UI.
 - Dark Theme
 - Responsive Layout
 - Article Tagging System
-- Comment Functionality
 - User Profiles
 
 ## Getting Started
